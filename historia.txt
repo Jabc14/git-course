@@ -1,3 +1,4 @@
 Nombre: José Bonilla
 Edad: 28
 Profesión: Programador web
+Peso: 95kg
